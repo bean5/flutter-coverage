@@ -139,7 +139,7 @@
 		"typescript": "^3.8.3",
 		"vscode-test": "^1.3.0",
 		"webpack": "^5.51.1",
-		"webpack-cli": "^3.3.12"
+		"webpack-cli": "^5.1.4"
 	},
 	"dependencies": {
 		"@cvrg-report/clover-json": "^0.3.0",
